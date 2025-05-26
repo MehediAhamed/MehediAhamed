@@ -17,7 +17,7 @@
   </a>
 </p>
 <p align="center">
-  📧 <a href="mailto:mehedi47478@gmail.com">mehedi47478@gmail.com</a> • 📞 +8801765929046
+  📧 <a href="mailto:mehedi47478@gmail.com">mehedi47478@gmail.com</a> • 
 </p>
 
 ---
