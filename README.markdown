@@ -205,8 +205,8 @@ Football • Cricket
 
 ## 📜 Certifications
 
-- ![Introduction to DevOps](#) 
-- ![Development with Flutter](#) 
+- [Introduction to DevOps](#) 
+- [Development with Flutter](#) 
 - [PepsiCo - Advanced Software Engineering Job Simulation](#)
 - [Robotics Engineer](#)
 
