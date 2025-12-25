@@ -205,8 +205,8 @@ Football • Cricket
 
 ## 📜 Certifications
 
-- ![DevOps Certificate](assets/cetificates/Mehedi%20Ahamed-DevOps.png) Introduction to DevOps
-- ![Flutter Workshop Certificate](assets/cetificates/flutter-workshop.png) Development with Flutter
+- ![Introduction to DevOps](#) 
+- ![Development with Flutter](#) 
 - [PepsiCo - Advanced Software Engineering Job Simulation](#)
 - [Robotics Engineer](#)
 
