@@ -71,6 +71,9 @@ I’m a **Computer Science & Engineering** undergraduate at the Islamic Universi
   *International Conference on Sustainable Technologies for Industry 5.0 (STI)*  
   [GitHub: SynergiProtoNet](https://github.com/MehediAhamed/SynergiProtoNet)
 
+- **From Lightweight CNNs to SpikeNets: Benchmarking Accuracy–Energy Tradeoffs with Pruned Spiking SqueezeNet**  
+  *Winter Conference on Applications of Computer Vision 2026*  
+
 ---
 
 ## 🏆 Achievements
@@ -86,7 +89,7 @@ I’m a **Computer Science & Engineering** undergraduate at the Islamic Universi
 
 - **B.Sc. in Computer Science and Engineering**  
   Islamic University of Technology, Gazipur, Bangladesh  
-  *July 2021–Present* | CGPA: 3.83/4.00
+  *July 2021–2025* 
 
 - **Higher Secondary School Certificate**  
   Notre Dame College, Dhaka, Bangladesh  
@@ -100,8 +103,18 @@ I’m a **Computer Science & Engineering** undergraduate at the Islamic Universi
 
 ## 💼 Experience
 
+### Lecturer(CSE)
+**Southeast University(SEU)** | *Oct 2025–Present* | Dhaka, Bangladesh  
+- Teaching undergraduate courses in Project Management and Software Testing.
+- Guiding students in research and project development.
+
+### Industry Collaboration
+**VLM Run** | *Oct 2025–Present* | Dhaka, Bangladesh  
+- Maintain and enhance the VLM Run SDK.
+- Develop and test automation workflows, testing platform releases.
+  
 ### Junior Software Engineer  
-**Orange Business Development Limited** | *Sep 2024–Present* | Dhaka, Bangladesh  
+**Orange Business Development Limited** | *Sep 2024–Sep 2025* | Dhaka, Bangladesh  
 - Designed backend systems and implemented APIs.  
 - Developed Machine Learning models for real-world applications.  
 - Managed cloud hosting solutions.
